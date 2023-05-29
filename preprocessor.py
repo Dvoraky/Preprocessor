@@ -1,5 +1,4 @@
 path = input("Digite o caminho do arquivo: ")
-#path = r"D:\Users\Usuário\Desktop\UFF\3 período\LP\teste.c" #Caminho para o arquivo.c que deseja pré-processar
 texto = []
 index = []
 
