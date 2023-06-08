@@ -9,4 +9,5 @@ E para executar basta escrever esta linha de comando no cmd:
 preprocessor.py teste.c
 
 Observação: Para a entrada de mais casos teste basta dar um espaço e adicionar o nome do arquivo.
+
 Exemplo: preprocessor.py teste.c teste2.c teste3.c
